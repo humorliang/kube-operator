@@ -1,0 +1,9 @@
+apiVersion: mapp.mdemo.com/v1alpha1
+kind: Mdemo
+metadata:
+  # finalizers:
+  # - mapp.mdemo.com/finalizer
+  name: mdemo-sample
+spec:
+  # Add fields here
+  foo: bar2
